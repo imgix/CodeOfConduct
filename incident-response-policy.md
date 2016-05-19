@@ -6,11 +6,11 @@ This document describes how to respond to reports of harassment, as outlined in 
 
 ## Receiving Harassment Reports
 
-If someone reports harassment the imgix Anti-Abuse team (<codeofconduct@imgix.com>), their report will act as a written account of what happened. This should be kept confidential to as small a group as reasonably possible.
+If someone reports harassment to the imgix Anti-Abuse team (<codeofconduct@imgix.com>), their report will act as a written account of what happened. This should be kept confidential to as small a group as reasonably possible.
 
 If an imgix employee receives a verbal report, they should themselves write down what they were told as soon as they can, in case they don't get anything better. When possible, verbal reports are usually better conducted in a quiet/private place, for the safety and comfort of the reporter. This also decreases the chances for someone to overhear sensitive information.
 
-If the following information is not volunteered in the written or verbal report, ask for it/include it, but do not pressure them the reporter to provide it:
+If the following information is not volunteered in the written or verbal report, ask for it/include it, but do not pressure the reporter to provide it:
 
 * Identifying information of the participant doing the harassing
 * The behavior that was in violation
@@ -156,7 +156,7 @@ You will probably prefer that the feedback be private between an individual atte
 
 Depending on the report and how public the incident was, it may be appropriate to make a short announcement about it, something like:
 
-"<thing> happened. This was a violation of our policy. We apologise for this. We have taken <action>. This is a good time for all attendees to review our policy at <location>. If anyone would like to discuss this further they can <contact us somehow>."
+"[thing] happened. This was a violation of our policy. We apologise for this. We have taken [action]. This is a good time for all attendees to review our policy at [location]. If anyone would like to discuss this further they can [contact us somehow]."
 
 
 ### Evaluation

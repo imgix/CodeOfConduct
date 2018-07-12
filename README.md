@@ -4,7 +4,7 @@
 
 imgix is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all imgix sponsored spaces, including our [community Slack](http://slack.imgix.com), [open-source projects](https://github.com/imgix), and other spaces that imgix hosts, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the imgix Anti-Abuse Team (<codeofconduct@imgix.com>).
+This code of conduct applies to all imgix sponsored spaces both online and off, including our [open-source projects]. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the imgix Anti-Abuse Team (<codeofconduct@imgix.com>).
 
 Some imgix-sponsored spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
